@@ -161,6 +161,7 @@ en:
       title: Manage Users
   add_to_google_calendar: "Add to Google Calendar"
   bigbluebutton: BigBlueButton
+  codevidhya: Classroom by Codevidhya
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
@@ -224,9 +225,9 @@ en:
   expired_reset_token: Password reset link has expired!
   features:
     title: Features
-    rooms: Personalized Rooms
-    recordings: Recording Management
-    designs: Custom Designs
+    rooms: Join Your Teachers
+    recordings: Live Video
+    designs: Share Notes
     authentication: User Authentication
   footer:
     powered_by: Powered by %{href}.
@@ -259,9 +260,9 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
-    video: Watch our tutorial on using Greenlight
+    about: "Join your teachers and classmates in live video classrooms."
+    welcome: Welcome to Classroom by Codevidhya.
+    video: Watch our tutorial on using Classroom by Codevidhya
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)
