@@ -36,7 +36,7 @@ en:
         enabled: Enabled
         info: Only allow authenticated users to join a room
         title: Require Authentication for Rooms
-        user-info: You must sign in to Greenlight to join this room
+        user-info: You must sign in to join this room
       branding:
         change: Change Image
         info: Change the branding image that appears in the top left corner
@@ -209,7 +209,7 @@ en:
       inclusion: is not included in the list
     no_provider:
       message: The site you are trying to access is not enabled
-      help: Please contact your system administrator to setup Greenlight
+      help: Please contact your system administrator
     not_found:
       message: Sorry! The page you are looking for does not exist.
       help: Is it possible its been removed?
